@@ -10,7 +10,7 @@ function App() {
 
 const styles = {
   container: {
-    height: "140vh",
+    minHeight: "100vh",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
