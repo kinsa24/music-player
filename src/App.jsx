@@ -10,11 +10,11 @@ function App() {
 
 const styles = {
   container: {
-    height: "100vh",
+    height: "140vh",
     display: "flex",
     justifyContent: "center",
     alignItems: "center",
-    background: "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
+    background: "linear-gradient(135deg, #17262d, #1b2a2f, #1f90c0)",
   },
 };
 
