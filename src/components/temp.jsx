@@ -15,6 +15,12 @@ const playlist = [
     src: "/badut-baru.mp3",
     cover: "/cover_badut_baru.jpg",
   },
+  {
+    title: "ku denganya kau dengan dia",
+    artist: "afgan",
+    src: "/afgan.mp3",
+    cover: "/afgan.jpg",
+  },
   // tambah lagu di sini...
 ];
 
