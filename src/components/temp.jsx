@@ -21,7 +21,13 @@ const playlist = [
     src: "/afgan.mp3",
     cover: "/afgan.jpg",
   },
-  // tambah lagu di sini...
+  {
+    title: "Gone, gone, gone",
+    artist: "philips",
+    src: "/gone.mp3",
+    cover: "/afgan.jpg",
+  },
+  
 ];
 
 // ─── HELPER ────────────────────────────────────────────────
