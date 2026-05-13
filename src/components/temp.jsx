@@ -3,29 +3,50 @@ import "./temp.css";
 
 // ─── PLAYLIST ──────────────────────────────────────────────
 const playlist = [
-  {
-    title: "Glimpse Of Us",
-    artist: "Joji",
-    src: "/Joji.mp3",
-    cover: "/cover_joji.png",
-  },
-  {
-    title: "Badut Baru",
-    artist: "dbatlayar",
-    src: "/badut-baru.mp3",
-    cover: "/cover_badut_baru.jpg",
-  },
-  {
-    title: "ku denganya kau dengan dia",
-    artist: "afgan",
-    src: "/afgan.mp3",
-    cover: "/afgan.jpg",
-  },
+  // {
+  //   title: "Glimpse Of Us",
+  //   artist: "Joji",
+  //   src: "/Joji.mp3",
+  //   cover: "/foto1.jpeg",
+  // },
+  // {
+  //   title: "Badut Baru",
+  //   artist: "dbatlayar",
+  //   src: "/badut-baru.mp3",
+  //   cover: "/foto1.jpeg",
+  // },
+  // {
+  //   title: "ku denganya kau dengan dia",
+  //   artist: "Afgan",
+  //   src: "/afgan.mp3",
+  //   cover: "/foto1.jpeg",
+  // },
   {
     title: "Gone, gone, gone",
-    artist: "philips",
+    artist: "Philips",
     src: "/gone.mp3",
-    cover: "/afgan.jpg",
+    cover: "/foto1.jpeg",
+  },
+
+  {
+    title: "In another life I would be your girl",
+    artist: "Katy Perry",
+    src: "/Katy_Perry.mp3",
+    cover: "/foto1.jpeg",
+  },
+  
+  {
+    title: "Luther",
+    artist: "Kendrick lamar",
+    src: "/Kendrick_Lamar.mp3",
+    cover: "/foto1.jpeg",
+  },
+  
+  {
+    title: "Tarot",
+    artist: "Feast",
+    src: "/Feast_Tarot.mp3",
+    cover: "/foto1.jpeg",
   },
   
 ];
