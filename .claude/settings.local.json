@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.siputzx.my.id)",
+      "Bash(curl -s \"https://api.siputzx.my.id/api/s/youtube?query=test\")",
+      "Bash(curl -s \"https://api.siputzx.my.id/api/d/ytmp3?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ\")",
+      "Bash(curl -s \"https://api.siputzx.my.id/api/d/ytmp4?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ\")",
+      "Bash(curl -s \"https://api.siputzx.my.id/api/d/yt?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ\")",
+      "Bash(curl -s \"https://api.siputzx.my.id/api/d/youtube?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ\")",
+      "Bash(curl -s \"https://api.siputzx.my.id/api\")",
+      "Bash(curl -s \"https://api.cobalt.tools/\")",
+      "Bash(curl -s \"https://pipedapi.kavin.rocks/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -s -m 10 \"https://pipedapi.adminforge.de/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -s -L -m 15 \"https://pipedapi.r4fo.com/streams/dQw4w9WgXcQ\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(''Title:'', d.get\\(''title'',''?''\\)\\); [print\\(''Audio:'', s.get\\(''url'',''''\\)[:100], s.get\\(''mimeType'',''''\\), s.get\\(''bitrate'',''''\\)\\) for s in d.get\\(''audioStreams'',[]\\)]\")",
+      "Bash(curl -s -L -m 15 \"https://watchapi.whatever.social/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -v -s -L -m 15 \"https://pipedapi.r4fo.com/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -v -s -L -m 15 \"https://pipedapi.kavin.rocks/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -s -L -m 15 \"https://inv.nadeko.net/api/v1/videos/dQw4w9WgXcQ\")",
+      "Bash(curl -s -L -m 15 \"https://invidious.fdn.fr/api/v1/videos/dQw4w9WgXcQ?fields=adaptiveFormats,title\")",
+      "Bash(curl -s -m 8 \"https://pipedapi.kavin.rocks/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -s -m 8 \"https://api.piped.yt/streams/dQw4w9WgXcQ\")",
+      "Bash(curl -s -m 8 \"https://pipedapi.drgns.space/streams/dQw4w9WgXcQ\")",
+      "Bash(done)"
+    ]
+  }
+}

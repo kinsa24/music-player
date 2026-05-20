@@ -25,28 +25,34 @@ const playlist = [
     title: "Gone, gone, gone",
     artist: "Philips",
     src: "/gone.mp3",
-    cover: "/foto1.jpeg",
+    cover: "/foto24.jpg",
+  },
+  {
+    title: "Layangan Putus",
+    artist: "Prinsa Mandagie",
+    src: "/Layangan_Putus.mp3",
+    cover: "/foto24.jpg",
   },
 
   {
     title: "In another life I would be your girl",
     artist: "Katy Perry",
     src: "/Katy_Perry.mp3",
-    cover: "/foto1.jpeg",
+    cover: "/foto24.jpg",
   },
   
   {
     title: "Luther",
     artist: "Kendrick lamar",
     src: "/Kendrick_Lamar.mp3",
-    cover: "/foto1.jpeg",
+    cover: "/foto24.jpg",
   },
   
   {
     title: "Tarot",
     artist: "Feast",
     src: "/Feast_Tarot.mp3",
-    cover: "/foto1.jpeg",
+    cover: "/foto24.jpg",
   },
   
 ];
