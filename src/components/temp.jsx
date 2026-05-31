@@ -3,12 +3,12 @@ import "./temp.css";
 
 // ─── PLAYLIST ──────────────────────────────────────────────
 const playlist = [
-  // {
-  //   title: "Glimpse Of Us",
-  //   artist: "Joji",
-  //   src: "/Joji.mp3",
-  //   cover: "/foto1.jpeg",
-  // },
+  {
+    title: "Glimpse Of Us",
+    artist: "Joji",
+    src: "/Joji.mp3",
+    cover: "/foto24.jpg",
+  },
   // {
   //   title: "Badut Baru",
   //   artist: "dbatlayar",
